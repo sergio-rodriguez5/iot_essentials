@@ -1,3 +1,3 @@
 # iot_essentials
 repositorio del curso iot essentials developer
-Aqui se suben los ejercicios del curso
+Aqui se suben los ejercicios del curso IOT Essential Developer
