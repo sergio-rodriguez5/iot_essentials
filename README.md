@@ -34,3 +34,5 @@ para mas detales consulta [rfid](./RFID/rfid.py)
 ## pendientes
 - [x] iniciar documentacion
 - [ ] incorporar codigo de LED
+
+hola hola hola HOLA HOLA
